@@ -1,0 +1,12 @@
+div {
+  background-color: skyblue;
+  color: aliceblue;
+  padding: 40px;
+  font-family: "고딕";
+  text-align: center;
+}
+h1 {
+  background-color: #2efe2e;
+  padding: 10px;
+  font-family: "궁서";
+}
