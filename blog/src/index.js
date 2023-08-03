@@ -2,13 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-import InputSample2 from "./inputSample2";
+import Main from "./Main";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
-    <InputSample2 />
-  </React.StrictMode>
+  <>
+    <Main />
+  </>
 );
 
 // If you want to start measuring performance in your app, pass a function
